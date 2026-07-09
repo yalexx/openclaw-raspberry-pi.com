@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://openclaw-raspberry-pi.com/sitemap.xml
+Disallow: /
